@@ -12,7 +12,7 @@ import time
 import urllib.request
 from pathlib import Path
 
-UA = "yuri1st-seed/0.1 (local seed builder)"
+UA = "Yuri1st-seed/0.1 (local seed builder)"
 BASE_URL = "https://api.bgm.tv/v0/search/subjects"
 PAGE_SIZE = 20
 PAGES_PER_QUERY = 2

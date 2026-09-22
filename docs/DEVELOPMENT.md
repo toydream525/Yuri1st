@@ -16,7 +16,7 @@
 ```bash
 ./gradlew test
 ./gradlew assembleDebug
-BANGUMI_USER_AGENT='yuri1st/0.4.0 (开发者标识; https://github.com/toydream525/yuri1st)' \
+BANGUMI_USER_AGENT='Yuri1st/0.4.0 (开发者标识; https://github.com/toydream525/Yuri1st)' \
   ./gradlew assembleRelease
 ```
 
@@ -76,7 +76,7 @@ Bangumi 将条目搜索标为实验性 API。网络层、DTO 和仓库层已分�
 
 ## 开源与许可证
 
-- 源码仓库：[github.com/toydream525/yuri1st](https://github.com/toydream525/yuri1st)
+- 源码仓库：[github.com/toydream525/Yuri1st](https://github.com/toydream525/Yuri1st)
 - 许可证：MIT（见 [LICENSE](../LICENSE)）
 - 第三方组件：见 [THIRD_PARTY_NOTICES](../THIRD_PARTY_NOTICES.md)
 - 条目数据来自 Bangumi 公开接口，数据版权归 Bangumi 及各条目权利方所有

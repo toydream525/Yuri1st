@@ -75,7 +75,7 @@ class NetworkFactoryTest {
                     },
                 )
                 val client = NetworkFactory.createHttpClient(
-                    userAgent = "yuri1st-test/1.0",
+                    userAgent = "Yuri1st-test/1.0",
                     debug = false,
                     proxySettingsProvider = { ProxySettings() },
                 ).newBuilder()
